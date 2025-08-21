@@ -1,4 +1,4 @@
-package br.com.iniflex.util;
+package br.com.iniflex.service;
 
 import br.com.iniflex.domain.model.Funcionario;
 
