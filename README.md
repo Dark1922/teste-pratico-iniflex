@@ -73,7 +73,7 @@ src/
 ## ▶️ Como Executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/iniflex-teste.git
+   git clone https://github.com/Dark1922/teste-pratico-iniflex.git
 
 Importe o projeto em sua IDE favorita (Eclipse/IntelliJ/VSCode).
 
